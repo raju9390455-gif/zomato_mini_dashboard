@@ -1,0 +1,101 @@
+Restaurant_ID	Restaurant_Name	City	Location	Cuisines	Rating	Votes	Average_Cost_for_Two	Online_Delivery	Table_Booking
+1	Truffles	Bangalore	Koramangala	North Indian	4.1	459	700	Yes	No
+2	Truffles	Delhi	Gachibowli	Biryani	2.9	1585	600	Yes	No
+3	Paradise	Kolkata	Koramangala	Andhra	3.3	9704	700	No	No
+4	Barbeque Nation	Mumbai	Madhapur	Cafe	3.1	5564	400	No	No
+5	Absolute Barbecues	Mumbai	Madhapur	Desserts	4.5	7577	1500	No	No
+6	Meghana Foods	Pune	Indiranagar	Italian	4	11593	400	Yes	Yes
+7	Taste of India	Pune	Banjara Hills	South Indian	4.6	6277	700	No	No
+8	Andhra Kitchen	Pune	Koramangala	Desserts	3.2	4424	400	Yes	Yes
+9	Truffles	Pune	Banjara Hills	Biryani	3.8	4472	1500	Yes	Yes
+10	Barbeque Nation	Bangalore	Gachibowli	Cafe	4.5	6622	700	Yes	No
+11	Cafe Coffee Day	Chennai	Koramangala	Chinese	3.6	10582	1200	No	No
+12	Truffles	Bangalore	Whitefield	BBQ	4.7	6593	800	Yes	Yes
+13	Royal Biryani	Delhi	Madhapur	Andhra	4.6	2554	500	No	No
+14	Absolute Barbecues	Pune	Whitefield	Italian	3.9	9114	300	No	Yes
+15	Paradise	Pune	MG Road	Desserts	3.4	2641	1200	Yes	Yes
+16	Andhra Kitchen	Bangalore	Koramangala	Cafe	4.6	4939	1500	Yes	Yes
+17	Absolute Barbecues	Chennai	MG Road	Chinese	4.1	8055	300	Yes	Yes
+18	The Food Factory	Kolkata	Madhapur	Desserts	4.6	1340	400	Yes	Yes
+19	Anand Sweets	Delhi	Gachibowli	Andhra	4.2	9057	500	Yes	Yes
+20	Taste of India	Delhi	Hitech City	North Indian	4.3	6587	800	Yes	Yes
+21	Namma Cafe	Bangalore	Gachibowli	Chinese	2.9	394	1800	Yes	Yes
+22	Barbeque Nation	Hyderabad	Banjara Hills	North Indian	4.3	1014	600	Yes	No
+23	Cafe Coffee Day	Pune	Gachibowli	Fast Food	4.2	3560	1500	No	Yes
+24	Absolute Barbecues	Hyderabad	Jubilee Hills	Cafe	4.4	6719	600	No	No
+25	Absolute Barbecues	Hyderabad	Jubilee Hills	Cafe	3.8	11995	300	Yes	Yes
+26	Cafe Coffee Day	Mumbai	Koramangala	Italian	3.2	8836	1200	No	Yes
+27	Namma Cafe	Hyderabad	Central	Desserts	4.6	1285	1200	Yes	Yes
+28	Royal Biryani	Mumbai	Hitech City	Chinese	4.7	3922	500	No	Yes
+29	Anand Sweets	Kolkata	Hitech City	Italian	3.1	85	1000	No	No
+30	Meghana Foods	Delhi	Whitefield	Biryani	3.1	4911	600	No	Yes
+31	Chai Point	Bangalore	Central	Desserts	2.9	7861	1500	Yes	Yes
+32	Green Leaf	Hyderabad	Gachibowli	Chinese	2.9	1163	600	Yes	Yes
+33	Chai Point	Chennai	MG Road	Chinese	3.7	9612	1800	No	Yes
+34	Taste of India	Chennai	Madhapur	Biryani	3.4	2194	700	No	Yes
+35	Anand Sweets	Bangalore	Banjara Hills	North Indian	3	3542	1500	Yes	No
+36	Spice Garden	Delhi	Whitefield	Biryani	3.4	7229	1500	No	Yes
+37	Absolute Barbecues	Hyderabad	Whitefield	South Indian	4.8	2250	700	No	No
+38	Empire Restaurant	Pune	MG Road	Desserts	4.1	11807	800	No	No
+39	Royal Biryani	Kolkata	MG Road	Biryani	4.7	882	400	Yes	No
+40	Biryani Blues	Pune	Hitech City	Desserts	4.4	10488	700	No	Yes
+41	Namma Cafe	Hyderabad	Banjara Hills	Fast Food	3	11371	500	Yes	No
+42	Meghana Foods	Chennai	Indiranagar	Chinese	3.1	5100	800	Yes	No
+43	Cafe Coffee Day	Bangalore	Koramangala	South Indian	4.4	6708	1800	No	Yes
+44	Truffles	Chennai	Koramangala	North Indian	3.2	5492	1000	No	Yes
+45	Taste of India	Chennai	MG Road	Chinese	4.6	3694	600	Yes	Yes
+46	Anand Sweets	Kolkata	Madhapur	Italian	4.2	6578	800	No	No
+47	Paradise	Hyderabad	MG Road	South Indian	4.2	8835	800	No	Yes
+48	Food Junction	Mumbai	Gachibowli	Desserts	3	7169	800	Yes	No
+49	Meghana Foods	Pune	Jubilee Hills	Biryani	4.7	3164	700	Yes	No
+50	Andhra Kitchen	Chennai	Madhapur	Italian	3.7	10932	800	No	No
+51	Namma Cafe	Bangalore	Indiranagar	Andhra	3.5	11473	700	No	Yes
+52	Namma Cafe	Kolkata	Central	Italian	4.1	4980	1000	No	Yes
+53	Food Junction	Mumbai	Hitech City	BBQ	3.7	9552	1800	Yes	No
+54	Spice Garden	Delhi	Gachibowli	Cafe	4.5	2830	400	Yes	Yes
+55	Cafe Coffee Day	Hyderabad	Central	Chinese	4.2	3730	600	No	Yes
+56	Empire Restaurant	Pune	Jubilee Hills	BBQ	3.8	10368	1800	No	Yes
+57	Absolute Barbecues	Kolkata	Jubilee Hills	Chinese	3.1	11316	300	Yes	No
+58	Taste of India	Bangalore	Hitech City	Desserts	2.9	4132	400	No	No
+59	Royal Biryani	Kolkata	Whitefield	BBQ	4.1	11834	1500	Yes	No
+60	Chai Point	Mumbai	Indiranagar	Italian	3.7	4100	700	No	Yes
+61	Food Junction	Chennai	Whitefield	North Indian	4.3	3891	700	Yes	Yes
+62	Empire Restaurant	Hyderabad	Jubilee Hills	Andhra	3.3	11419	500	No	No
+63	Green Leaf	Kolkata	Gachibowli	Biryani	3.7	3438	1000	No	No
+64	Green Leaf	Kolkata	Jubilee Hills	Desserts	2.8	5813	700	Yes	No
+65	Paradise	Mumbai	Banjara Hills	Andhra	3.3	7190	1200	Yes	No
+66	Paradise	Mumbai	Gachibowli	Fast Food	4.7	10245	1500	Yes	Yes
+67	Biryani Blues	Hyderabad	MG Road	Andhra	4.1	2273	1200	No	Yes
+68	Anand Sweets	Kolkata	Jubilee Hills	Italian	3.8	5579	1000	Yes	No
+69	Urban Tadka	Bangalore	Madhapur	Biryani	2.8	8887	300	Yes	Yes
+70	Cafe Coffee Day	Bangalore	Koramangala	BBQ	3.2	383	1800	Yes	Yes
+71	Biryani Blues	Delhi	Gachibowli	North Indian	3.8	4248	800	Yes	No
+72	Punjabi Rasoi	Pune	Jubilee Hills	Andhra	3	470	700	Yes	Yes
+73	Absolute Barbecues	Pune	MG Road	Fast Food	4	10326	600	Yes	Yes
+74	Barbeque Nation	Delhi	Banjara Hills	Biryani	3.5	7068	800	No	No
+75	Cafe Coffee Day	Mumbai	Koramangala	Desserts	3	5984	1200	No	No
+76	Food Junction	Kolkata	Indiranagar	North Indian	3.8	9757	700	No	No
+77	Andhra Kitchen	Pune	Jubilee Hills	Cafe	3.3	7663	1800	Yes	No
+78	Empire Restaurant	Chennai	MG Road	Cafe	4.6	3029	1200	No	No
+79	Barbeque Nation	Bangalore	Jubilee Hills	BBQ	4	8514	600	Yes	No
+80	Paradise	Hyderabad	MG Road	Chinese	4.2	8091	1200	No	Yes
+81	The Food Factory	Delhi	Whitefield	Cafe	3.4	9578	800	No	No
+82	Spice Garden	Chennai	Indiranagar	North Indian	3.5	7484	700	Yes	No
+83	Empire Restaurant	Bangalore	Hitech City	Italian	3.1	8829	500	No	Yes
+84	Urban Tadka	Bangalore	MG Road	Biryani	4.5	4903	600	Yes	No
+85	Spice Garden	Pune	Koramangala	BBQ	2.9	943	1500	Yes	Yes
+86	Taste of India	Chennai	Koramangala	Biryani	4	7740	1200	No	No
+87	The Food Factory	Hyderabad	Gachibowli	Biryani	3	1120	1000	Yes	Yes
+88	Truffles	Hyderabad	Whitefield	Andhra	4.5	5028	400	Yes	No
+89	Punjabi Rasoi	Mumbai	MG Road	Fast Food	3.7	7303	700	Yes	Yes
+90	Anand Sweets	Pune	Madhapur	South Indian	4.8	3454	600	Yes	Yes
+91	Royal Biryani	Mumbai	Gachibowli	BBQ	4	2614	300	No	Yes
+92	Taste of India	Hyderabad	Indiranagar	Italian	3.3	11632	700	Yes	No
+93	Anand Sweets	Kolkata	Koramangala	North Indian	3	3733	500	Yes	Yes
+94	Spice Garden	Mumbai	Madhapur	BBQ	4.5	9799	1800	No	No
+95	The Food Factory	Mumbai	Madhapur	Fast Food	4.8	8249	1500	Yes	No
+96	Paradise	Hyderabad	Indiranagar	Fast Food	4.3	9941	700	Yes	No
+97	Chai Point	Pune	Hitech City	Italian	4	2920	1200	Yes	No
+98	The Food Factory	Chennai	Jubilee Hills	Cafe	4.1	8106	400	No	Yes
+99	The Food Factory	Chennai	Jubilee Hills	Desserts	4.6	5453	1000	Yes	No
+100	Absolute Barbecues	Kolkata	Jubilee Hills	Desserts	3	4185	800	Yes	No
